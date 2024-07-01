@@ -2522,14 +2522,14 @@
 			]
 		},
 		{
-			"id": "extras/variated_stone/variated_stone_and_unpolished_stones",
+			"id": "extras/variated/variated_stone_and_unpolished_stones",
 			"combines": [
 				"variated/variated_stone",
 				"variated/variated_unpolished_stones"
 			]
 		},
 		{
-			"id": "extras/variated_stone/dungeons_stone_and_unpolished_stones",
+			"id": "extras/variated/dungeons_stone_and_unpolished_stones",
 			"combines": [
 				"variated/variated_unpolished_stones",
 				"parity/dungeons_stone"
@@ -2543,7 +2543,7 @@
 			]
 		},
 		{
-			"id": "extras/variated_stone/dungeons_stone_and_unpolished_stones",
+			"id": "extras/variated/dungeons_stone_and_unpolished_stones",
 			"combines": [
 				"variated/variated_stone",
 				"variated/variated_unpolished_stones",
