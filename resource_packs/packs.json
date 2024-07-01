@@ -375,6 +375,11 @@
 					"description": "Dirt will be randomized using a selection of 16 textures."
 				},
 				{
+					"id": "variated_coarse_dirt",
+					"name": "Variated Coarse Dirt",
+					"description": "Coarse Dirt will be randomized using a selection of 16 textures."
+				},
+				{
 					"id": "variated_grass",
 					"name": "Variated Grass",
 					"description": "Grass will be randomized using a selection of 16 textures."
@@ -2543,6 +2548,13 @@
 				"variated/variated_stone",
 				"variated/variated_unpolished_stones",
 				"parity/dungeons_stone"
+			]
+		},
+		{
+			"id": "extras/variated/variated_dirt_and_coarse_dirt",
+			"combines": [
+				"variated/variated_dirt",
+				"variated/variated_coarse_dirt"
 			]
 		},
 		{
