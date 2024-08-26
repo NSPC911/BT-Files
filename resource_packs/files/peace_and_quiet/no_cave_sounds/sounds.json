@@ -1,0 +1,9 @@
+{
+	"individual_event_sounds": {
+		"events": {
+			"ambient.cave": {
+				"volume": 0
+			}
+		}
+	}
+}

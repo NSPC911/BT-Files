@@ -1,0 +1,39 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"bee": {
+				"events": {
+					"ambient.pollinate": {
+						"volume": 0.0425
+					},
+					"death": {
+						"volume": 0.03
+					},
+					"hurt": {
+						"volume": 0.03
+					}
+				},
+				"volume": 0.03
+			}
+		}
+	},
+	"individual_event_sounds": {
+		"events": {
+			"block.beehive.drip" : {
+				"volume" : 0.015
+			},
+			"block.beehive.enter" : {
+				"volume" : 0.0375
+			},
+			"block.beehive.exit" : {
+				"volume" : 0.0375
+			},
+			"block.beehive.shear" : {
+				"volume" : 0.04
+			},
+			"block.beehive.work" : {
+				"volume" : 0.03
+			}
+		}
+	}
+}

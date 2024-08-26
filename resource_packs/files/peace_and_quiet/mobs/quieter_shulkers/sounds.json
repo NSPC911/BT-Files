@@ -1,0 +1,19 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"shulker": {
+				"volume": 0.05
+			}
+		}
+	},
+	"individual_event_sounds": {
+		"events": {
+			"shulkerbox.closed": {
+				"volume" : 0.025
+			},
+			"shulkerbox.open": {
+				"volume" : 0.025
+			}
+		}
+	}
+}

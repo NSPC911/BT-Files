@@ -1,6 +1,10 @@
 {
 	"section": "crafting_tweaks",
-	"version": [1, 21, 0],
+	"version": [
+		1,
+		21,
+		0
+	],
 	"categories": [
 		{
 			"id": "quality_of_life",
@@ -28,6 +32,12 @@
 					"id": "rotten_flesh_to_leather",
 					"name": "Rotten Flesh to Leather",
 					"description": "Allows you to smelt Rotten Flesh into Leather in Furnaces, Smokers or Campfires.",
+					"version": "1.21 - 1.0.0"
+				},
+				{
+					"id": "copper_powered_rails",
+					"name": "Copper Powered Rails",
+					"description": "Lets you craft powered rails from copper. (But you can still craft them from gold!)",
 					"version": "1.21 - 1.0.0"
 				},
 				{
